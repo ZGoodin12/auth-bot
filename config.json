@@ -1,7 +1,7 @@
 {
   "prefix": "?",
   "mongoURI": "mongodb+srv://admin:labsauth@labs-auth-d6exu.mongodb.net/test?retryWrites=true&w=majority",
-  "token": "NjIwNDM0NTU2NTc4ODI0MjAy.XYp8EA.0n8euYPt4837oHMvsqYJTsGt4ig",
+  "token": "NjIwNDM0NTU2NTc4ODI0MjAy.XYqGfg.l5FadbOlTO1Z_pM0BcjcQriJoaM",
   "paypal_redirect": "https://www.paypal.com",
   "memberships": ["Renewal", "Lifetime", "F&F", "Beta", "Tester"],
   "ownerRole": "owner",
