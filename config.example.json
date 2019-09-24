@@ -1,10 +1,10 @@
 {
-  "prefix": "+",
+  "prefix": "?",
   "mongoURI": "mongodb://localhost/auth-db",
-  "token": "",
+  "token": "NjIwNDM0NTU2NTc4ODI0MjAy.XYp8EA.0n8euYPt4837oHMvsqYJTsGt4ig",
   "paypal_redirect": "https://www.paypal.com",
   "memberships": ["Renewal", "Lifetime", "F&F", "Beta", "Tester"],
-  "ownerRole": "Staff",
+  "ownerRole": "owner",
   "memberRole": "Member",
   "memberRoleID": "488838625346191361"
 }
